@@ -680,7 +680,7 @@ item.tm170.name=TM170: Секрет
 
 item.hm1.name=HM1: Срез
 item.hm2.name=HM2: Полёт
-item.hm3.name=HM3: Сёрфинг
+item.hm3.name=HM3: Прибой
 item.hm4.name=HM4: Мощь
 item.hm5.name=HM5: Рассеивание
 item.hm6.name=HM6: Камнелом
@@ -893,7 +893,7 @@ item.houndoominite.name=Хаундуминит
 item.lopunnite.name=Лопуннит
 item.gardevoirite.name=Гардевуарит
 item.rayquazanite.name=Рэйквазанит
-
+item.generate.name=Генгарит
 
 item.stick.name=Палка
 
@@ -1271,7 +1271,7 @@ attack.super fang.name=Суперклык
 attack.super fang.description=Покемон чавкает над противником, тем самым сокращая его ОЗ на половину.
 attack.supersonic.name=Ультразвук
 attack.supersonic.description=Приводит цель в замешательство.
-attack.surf.name=Сёрфинг
+attack.surf.name=Прибой
 attack.surf.description=Вы создаете гигантскую волну. Может быть использовано для пересечения водных атак. Если покемон выучит эту Атаку, на нем можно будет плавать.
 attack.swift.name=Звездопад
 attack.swift.description=Покемон наносит на противника шквал звезд. Атака никогда не промахивается.
@@ -1508,7 +1508,7 @@ attack.astonish.description=Покемон атакует цель, показы
 attack.blast burn.name=Испепеление
 attack.blast burn.description=Покемон пропускает следующий ход для перезарядки.
 attack.blaze kick.name=Пинок пламени
-attack.blaze kick.description=Имеет повышенный шанс критического удара. Также имеет 10% вероятность ожечь противника.
+attack.blaze kick.description=Имеет повышенный шанс критического удара. Также имеет 10% вероятность поджечь противника.
 attack.block.name=Блок
 attack.block.description=Предотвращает отступление противника.
 attack.bounce.name=Прыжок
